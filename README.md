@@ -4,7 +4,8 @@
 
 ### About me  
 
-💎 Currently learning:</b> Ruby on Rails at [Le Wagon Tokyo](https://www.lewagon.com/tokyo)  
+🇨🇦 Born in Toronto, Canada; 🇭🇰 Raised in Hong Kong <br>
+💎 <b>Currently learning:</b> Ruby on Rails at [Le Wagon Tokyo](https://www.lewagon.com/tokyo) <br>
 📚 <b>Working on:</b> [The Odin Project](https://www.theodinproject.com/dashboard), [JavaScript30](https://javascript30.com/)
 
 ### Github Stats  
