@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋 I'm Joyce</div>  
   
-#### <div align="center">Full-stack developer based in Tokyo, Japan 🇯🇵</div>  
+#### <div align="center">Frontend developer based in Tokyo, Japan 🇯🇵</div>  
 
 ### About me  
 
