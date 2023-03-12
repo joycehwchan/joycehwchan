@@ -1,11 +1,11 @@
 # <div align="center">Hi 👋 I'm Joyce</div>  
   
-#### <div align="center">Frontend developer based in Tokyo, Japan 🇯🇵</div>  
+#### <div align="center">Fullstack developer based in Tokyo, Japan 🇯🇵</div>  
 
 ### About me  
 
 🌈 <b>Pronouns:</b> she / her <br>
-🧠 <b>Currently learning:</b> React & Vue <br>
+🧠 <b>Currently learning:</b> Java & Spring Boot <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 🍣 <b>Fun Fact:</b> I can not survive without sushi!
 
