@@ -5,7 +5,7 @@
 ### About me  
 
 🌈 <b>Pronouns:</b> she / her <br>
-🧠 <b>Currently learning:</b> Java & Spring Boot <br>
+🧠 <b>Currently learning:</b> React, Vue <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 🍣 <b>Fun Fact:</b> I can not survive without sushi!
 
